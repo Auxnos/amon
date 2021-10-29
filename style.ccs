@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background: url('Image.PNG'), linear-gradient(to top right, blue, red);
+  background-size: 30% 30%;
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
